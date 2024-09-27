@@ -1,0 +1,18 @@
+
+#weatherContainer {
+    background-color: #1e90ff; 
+    margin: 0 auto; 
+    padding: 20px; 
+    border-radius: 10px; 
+    width: 50%; 
+}
+
+#weatherIcon {
+    display: flex;
+    justify-content: center; 
+}
+
+.text-white {
+    color: #ffffff;
+}
+
