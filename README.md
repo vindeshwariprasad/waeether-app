@@ -62,12 +62,12 @@ Usage
 1. Search for a City:
 
    - Enter the name of a city in the search input field.
-   - Click the **Search** button or press Enter.
+   - Click the Search button or press Enter.
    - The current weather and 5-day forecast for the entered city will display.
 
 2. Use Current Location:
 
-   - Click the **Use Current Location button.
+   - Click the Use Current Location button.
    - Allow the browser to access your location.
    - The application will display weather data based on your current location.
 
