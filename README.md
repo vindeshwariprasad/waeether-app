@@ -55,7 +55,7 @@ Installation
    **Using Live Server in VSCode:**
 
    - Install the (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
-   - Right-click on `index.html` and select **Open with Live Server**.
+   - Right-click on `index.html` and select Open with Live Server.
 
 Usage
 
