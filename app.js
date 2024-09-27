@@ -1,5 +1,5 @@
 
-const apiKey = 'e3e5e55f08f8cbd8cfddc0ebc93c76b6';
+const apiKey = 'add own api key'; 
 const weatherContainer = document.getElementById('weatherContainer');
 const cityName = document.getElementById('cityName');
 const weatherIcon = document.getElementById('weatherIcon');
